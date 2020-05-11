@@ -1,0 +1,8 @@
+C:\projects\CertDecode1\bin\Debug\CertDecode1.exe.config
+C:\projects\CertDecode1\bin\Debug\cert.txt
+C:\projects\CertDecode1\bin\Debug\CertDecode1.exe
+C:\projects\CertDecode1\bin\Debug\CertDecode1.pdb
+C:\projects\CertDecode1\obj\Debug\CertDecode1.csprojResolveAssemblyReference.cache
+C:\projects\CertDecode1\obj\Debug\CertDecode1.exe
+C:\projects\CertDecode1\obj\Debug\CertDecode1.pdb
+C:\projects\CertDecode1\bin\Debug\BouncyCastle.Crypto.dll
